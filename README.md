@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 İlk Proje İçin Ders İçeriği : [Patika.dev Adresine Gitmek İçin Tıklayınız!](https://www.patika.dev)
 
-![github](figures/github.PNG)
+![github](https://www.hizliresim.com/ihl3872)
 
 ## Installation
 
